@@ -1,0 +1,114 @@
+instrument,question_number,factor,question_text,mean_r,sd_r,n_pairs,n_observations,question_type,text_length,length_quartile
+bfi,1,extraversion,Is talkative,0.9657545676501657,0.0130819779452901,6,114,concrete_behavioral,12,shortest
+bfi,2,agreeableness,Tends to find fault with others,0.918839152173477,0.0420198864467117,6,114,cognitive,31,short
+bfi,3,conscientiousness,Does a thorough job,0.9660881094455308,0.0083088129572281,6,114,concrete_behavioral,19,shortest
+bfi,4,neuroticism,"Is depressed, blue",0.7295871422347844,0.0290693202889673,6,111,internal_state,18,shortest
+bfi,5,openness,"Is original, comes up with new ideas",0.8847268978527785,0.0293779779085623,6,111,cognitive,36,short
+bfi,6,extraversion,Is reserved,0.9606871866035096,0.0105912296993244,6,114,concrete_behavioral,11,shortest
+bfi,7,agreeableness,Is helpful and unselfish with others,0.9506428138302452,0.0160677003869698,6,114,concrete_behavioral,36,short
+bfi,8,conscientiousness,Can be somewhat careless,0.928155345497528,0.0148177271856362,6,113,concrete_behavioral,24,shortest
+bfi,9,neuroticism,"Is relaxed, handles stress well",0.6192138388164932,0.0614228222508384,6,111,internal_state,31,short
+bfi,10,openness,Is curious about many different things,0.8569387880649741,0.0213586840497357,6,111,cognitive,38,long
+bfi,11,extraversion,Is full of energy,0.9286862859331364,0.035678327043781,6,114,internal_state,17,shortest
+bfi,12,agreeableness,Starts quarrels with others,0.8369700610135254,0.0765561472711029,6,114,concrete_behavioral,27,shortest
+bfi,13,conscientiousness,Is a reliable worker,0.9052262642697846,0.0632049540856971,6,112,concrete_behavioral,20,shortest
+bfi,14,neuroticism,Can be tense,0.7304233954235592,0.024598131114289,6,111,internal_state,12,shortest
+bfi,15,openness,"Is ingenious, a deep thinker",0.8735921946101867,0.0099841142521676,6,111,cognitive,28,short
+bfi,16,extraversion,Generates a lot of enthusiasm,0.9089951566241335,0.0494866052420354,6,114,concrete_behavioral,29,short
+bfi,17,agreeableness,Has a forgiving nature,0.9544178353934698,0.0092220077047578,6,114,cognitive,22,shortest
+bfi,18,conscientiousness,Tends to be disorganized,0.9548509781770989,0.0124212593702045,6,112,concrete_behavioral,24,shortest
+bfi,19,neuroticism,Worries a lot,0.8391632906884854,0.0253884453690461,6,111,internal_state,13,shortest
+bfi,20,openness,Has an active imagination,0.8681879241471346,0.0241965899224268,6,111,cognitive,25,shortest
+bfi,21,extraversion,Tends to be quiet,0.9590077486467656,0.0146970451988847,6,114,concrete_behavioral,17,shortest
+bfi,22,agreeableness,Is generally trusting,0.9597716910647186,0.0096417798522479,6,114,cognitive,21,shortest
+bfi,23,conscientiousness,Tends to be lazy,0.9340677976585549,0.0068780944440347,6,112,concrete_behavioral,16,shortest
+bfi,24,neuroticism,"Is emotionally stable, not easily upset",0.5778458738337722,0.2116477525513156,6,111,internal_state,39,long
+bfi,25,openness,Is inventive,0.8704175154120927,0.044529962789664,6,111,cognitive,12,shortest
+bfi,26,extraversion,Has an assertive personality,0.9558907209836248,0.0052939594747182,6,114,concrete_behavioral,28,short
+bfi,27,agreeableness,Can be cold and aloof,0.8774822064343276,0.0163879973641144,6,114,internal_state,21,shortest
+bfi,28,conscientiousness,Perseveres until the task is finished,0.9642086729745896,0.0081362385705026,6,112,concrete_behavioral,37,short
+bfi,29,neuroticism,Can be moody,0.6195983977311423,0.0976690799419974,6,111,internal_state,12,shortest
+bfi,30,openness,"Values artistic, aesthetic experiences",0.875378261318,0.0323115952064089,6,111,cognitive,38,long
+bfi,31,extraversion,"Is sometimes shy, inhibited",0.908077140838202,0.0152843534316546,6,114,internal_state,27,shortest
+bfi,32,agreeableness,Is considerate and kind to almost everyone,0.9452249478462476,0.0157632130132687,6,114,concrete_behavioral,42,long
+bfi,33,conscientiousness,Does things efficiently,0.9222561646155406,0.0246140519600097,6,112,concrete_behavioral,23,shortest
+bfi,34,neuroticism,Remains calm in tense situations,0.7191778054058063,0.1136778755244157,6,111,internal_state,32,short
+bfi,35,openness,Prefers work that is routine,0.7103127374898927,0.0566925058432687,6,111,cognitive,28,short
+bfi,36,extraversion,"Is outgoing, sociable",0.9755528524929654,0.0083005832088652,6,114,concrete_behavioral,21,shortest
+bfi,37,agreeableness,Is sometimes rude to others,0.9048499797981454,0.0179598618052122,6,114,concrete_behavioral,27,shortest
+bfi,38,conscientiousness,Makes plans and follows through with them,0.961988520606123,0.0083087828640658,6,112,concrete_behavioral,41,long
+bfi,39,neuroticism,Gets nervous easily,0.7929684613809459,0.0529242052597363,6,111,internal_state,19,shortest
+bfi,40,openness,"Likes to reflect, play with ideas",0.7656958354175196,0.0772874984098949,6,111,cognitive,33,short
+bfi,41,openness,Has few artistic interests,0.6981168881955351,0.0879281111224473,6,111,cognitive,26,shortest
+bfi,42,agreeableness,Likes to cooperate with others,0.9555864424513132,0.0154721407502431,6,114,concrete_behavioral,30,short
+bfi,43,conscientiousness,Is easily distracted,0.8414008400441194,0.057982421922026,6,112,concrete_behavioral,20,shortest
+bfi,44,openness,"Is sophisticated in art, music, or literature",0.8694348704886471,0.0350703399338537,6,111,cognitive,45,long
+dark_triad,1,machiavellianism,It's not wise to tell your secrets,0.551165232435511,0.1238116699770483,6,114,cognitive,34,short
+dark_triad,2,machiavellianism,I like to use clever manipulation to get my way,0.8963008909637566,0.0276277321868464,6,114,concrete_behavioral,47,long
+dark_triad,3,machiavellianism,"Whatever it takes, you must get the important people on your side",0.7578659681822338,0.0466474766261627,6,114,cognitive,65,longest
+dark_triad,4,machiavellianism,Avoid direct conflict with others because they may be useful in the future,0.5240726958583084,0.0942784392888284,6,114,cognitive,74,longest
+dark_triad,5,machiavellianism,It's wise to keep track of information that you can use against people later,0.8590023158363258,0.0371175400392237,6,114,cognitive,76,longest
+dark_triad,6,machiavellianism,You should wait for the right time to get back at people,0.5943017599507735,0.1236995071814288,6,114,cognitive,56,longest
+dark_triad,7,machiavellianism,There are things you should hide from other people to preserve your reputation,0.6128732874068682,0.0825298086362485,6,114,cognitive,78,longest
+dark_triad,8,machiavellianism,"Make sure your plans benefit yourself, not others",0.9343648806044688,0.0152887833047411,6,114,cognitive,49,long
+dark_triad,9,machiavellianism,Most people can be manipulated,0.7837041570818789,0.0352436011783332,6,114,cognitive,30,short
+dark_triad,10,narcissism,People see me as a natural leader,0.9090713354233784,0.0239352057542796,6,114,cognitive,33,short
+dark_triad,11,narcissism,I hate being the center of attention,0.9411923013367384,0.0137570836592778,6,114,internal_state,36,short
+dark_triad,12,narcissism,Many group activities tend to be dull without me,0.895186669030512,0.0199590859633346,6,114,concrete_behavioral,48,long
+dark_triad,13,narcissism,I know that I am special because everyone keeps telling me so,0.6563868707910084,0.0897634709306706,6,114,cognitive,61,longest
+dark_triad,14,narcissism,I like to get acquainted with important people,0.817702761511172,0.067657804377083,6,114,concrete_behavioral,46,long
+dark_triad,15,narcissism,I feel embarrassed if someone compliments me,0.5505489510373054,0.1090851086585789,6,114,internal_state,44,long
+dark_triad,16,narcissism,I have been compared to famous people,0.8161894988426849,0.0443053826759397,6,114,cognitive,37,short
+dark_triad,17,narcissism,I am an average person,0.7098632441129955,0.0628066323672714,6,114,cognitive,22,shortest
+dark_triad,18,narcissism,I insist on getting the respect I deserve,0.8013450554522298,0.0539643169372665,6,114,cognitive,41,long
+dark_triad,19,psychopathy,I like to get revenge on authorities,0.8720427146041451,0.0255369854013205,6,114,concrete_behavioral,36,short
+dark_triad,20,psychopathy,I avoid dangerous situations,0.6064882571606267,0.075887559728373,6,114,concrete_behavioral,28,short
+dark_triad,21,psychopathy,Payback needs to be quick and nasty,0.8363088667394208,0.0420357167366833,6,114,cognitive,35,short
+dark_triad,22,psychopathy,People often say I'm out of control,0.7769651540924901,0.0505736768746135,6,114,concrete_behavioral,35,short
+dark_triad,23,psychopathy,It's true that I can be mean to others,0.9095709696333876,0.0127575725253647,6,114,concrete_behavioral,38,long
+dark_triad,24,psychopathy,People who mess with me always regret it,0.8430704971134383,0.0315605335141,6,113,cognitive,40,long
+dark_triad,25,psychopathy,I have never gotten into trouble with the law,0.6297710666136624,0.0376831548442892,6,113,concrete_behavioral,45,long
+dark_triad,26,psychopathy,I enjoy having sex with people I hardly know,0.7997625473885086,0.034275139397948,6,113,concrete_behavioral,44,long
+dark_triad,27,psychopathy,I'll say anything to get what I want,0.9247701061997926,0.0121174649405496,6,113,concrete_behavioral,36,short
+gad7,1,anxiety,"Feeling nervous, anxious, or on edge",0.7940318982147069,0.0553951300935655,6,114,internal_state,36,short
+gad7,2,anxiety,Not being able to stop or control worrying,0.7409068604406435,0.0768063313002355,6,114,internal_state,42,long
+gad7,3,anxiety,Worrying too much about different things,0.7151658088785718,0.0698442137602776,6,114,internal_state,40,long
+gad7,4,anxiety,Trouble relaxing,0.5650599703652703,0.1278635001506331,6,114,internal_state,16,shortest
+gad7,5,anxiety,Being so restless that it is hard to sit still,0.6777056938357607,0.0391674790786478,6,114,concrete_behavioral,46,long
+gad7,6,anxiety,Becoming easily annoyed or irritable,0.7862562737355233,0.0688331666078534,6,114,internal_state,36,short
+gad7,7,anxiety,Feeling afraid as if something awful might happen,0.7130701362137998,0.0603683176101174,6,113,internal_state,49,long
+levenson,1,primary,Success is based on survival of the fittest; I am not concerned about the losers,0.9394121558774428,0.0151368112747288,6,114,cognitive,80,longest
+levenson,2,primary,"For me, what's right is whatever I can get away with",0.9143199887873844,0.0195842882207717,6,114,cognitive,52,longest
+levenson,3,primary,"In today's world, I feel justified in doing anything I can get away with to succ",0.91180565119687,0.0242687161471028,6,113,cognitive,80,longest
+levenson,4,primary,My main purpose in life is getting as many goodies as possible,0.8713946394869408,0.0374495973926572,6,113,cognitive,62,longest
+levenson,5,primary,Making a lot of money is my most important goal,0.8476655267579178,0.0273829566891752,6,113,cognitive,47,long
+levenson,6,primary,I let others worry about higher values; my main concern is with the bottom line,0.8967767631033717,0.020132160314487,6,113,cognitive,79,longest
+levenson,7,primary,People who are stupid enough to get ripped off usually deserve it,0.7567712652112505,0.0823561304497262,6,113,cognitive,65,longest
+levenson,8,primary,Looking out for myself is my top priority,0.942344425232392,0.0126914125493,6,113,cognitive,41,long
+levenson,9,primary,I tell other people what they want to hear so that they will do what I want them,0.8641732655036666,0.0535811706707318,6,113,concrete_behavioral,80,longest
+levenson,10,primary,I would be upset if my success came at someone else's expense,0.935166596779378,0.0282562915312999,6,113,internal_state,61,longest
+levenson,11,primary,I often admire a really clever scam,0.8835381808041455,0.0325428198148843,6,113,cognitive,35,short
+levenson,12,primary,I make a point of trying not to hurt others in pursuit of my goals,0.9578722927036054,0.011474360849832,6,113,cognitive,66,longest
+levenson,13,primary,I enjoy manipulating other people's feelings,0.9072729134154052,0.0176236968061415,6,113,internal_state,44,long
+levenson,14,primary,I feel bad if my words hurt someone,0.9397804402412642,0.0152777219620127,6,113,internal_state,35,short
+levenson,15,primary,"Even if I were trying very hard to sell something, I wouldn't lie about it",0.8658334005185768,0.0467595663113225,6,113,cognitive,74,longest
+levenson,16,primary,Cheating is not justified because it is unfair to others,0.8963266010787353,0.0390302510470177,6,113,cognitive,56,longest
+levenson,17,secondary,"I find myself in the same kinds of trouble, time after time",0.6933710209639142,0.1219977718599757,6,113,concrete_behavioral,59,longest
+levenson,18,secondary,I am often bored,0.5464746873611147,0.0791437224313555,6,113,internal_state,16,shortest
+levenson,19,secondary,I find that I am able to pursue one goal for a long time,0.918210448500004,0.0153485410954284,6,113,concrete_behavioral,56,longest
+levenson,20,secondary,I don't plan anything very far in advance,0.9224682971004644,0.0232025945410722,6,113,concrete_behavioral,41,long
+levenson,21,secondary,I quickly lose interest in tasks I start,0.8654623464136536,0.0502232600760708,6,113,concrete_behavioral,40,long
+levenson,22,secondary,Most of my problems are due to the fact that other people just don't understand ,0.6732448391311906,0.0900575692028507,6,113,cognitive,80,longest
+levenson,23,secondary,"Before I do anything, I carefully consider the possible consequences",0.9371959344793604,0.0135790128257802,6,113,cognitive,68,longest
+levenson,24,secondary,I have been in a lot of shouting matches with other people,0.8794136330648391,0.0320118772423346,6,112,concrete_behavioral,58,longest
+levenson,25,secondary,"When I get frustrated, I often let off steam by blowing my top",0.8557436608069403,0.0509834230840551,6,112,concrete_behavioral,62,longest
+levenson,26,secondary,Love is overrated,0.6847497699994419,0.1188266298000196,6,112,cognitive,17,shortest
+phq9,1,depression,Little interest or pleasure in doing things,0.6558610801592092,0.1431512993685326,6,114,internal_state,43,long
+phq9,2,depression,"Feeling down, depressed, or hopeless",0.6692243044317853,0.077290583536471,6,114,internal_state,36,short
+phq9,3,depression,"Trouble falling or staying asleep, or sleeping too much",0.5074807547628813,0.1647728367946331,6,114,concrete_behavioral,55,longest
+phq9,4,depression,Feeling tired or having little energy,0.4058415610110954,0.1139275924151925,6,114,internal_state,37,short
+phq9,5,depression,Poor appetite or overeating,0.6351176798036725,0.0528534439699978,6,114,concrete_behavioral,27,shortest
+phq9,6,depression,"Feeling bad about yourself, or that you are a failure, or have let yourself or y",0.6800990828060139,0.0882192574542623,6,113,internal_state,80,longest
+phq9,7,depression,"Trouble concentrating on things, such as reading the newspaper or watching telev",0.5544924280298201,0.0917328744772847,6,113,cognitive,80,longest
+phq9,8,depression,Moving or speaking so slowly that other people could have noticed. Or the opposi,0.5294202666044002,0.0963042003911757,6,113,concrete_behavioral,80,longest
+phq9,9,depression,"Thoughts that you would be better off dead, or of hurting yourself in some way",0.4831427265343017,0.1333207752991635,6,113,cognitive,78,longest
