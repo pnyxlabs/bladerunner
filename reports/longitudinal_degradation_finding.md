@@ -2,7 +2,7 @@
 
 **Status**: Working document  
 **Date**: 31 December 2025  
-**Author**: SneakyLabs
+**Author**: PnyxLabs
 
 ---
 

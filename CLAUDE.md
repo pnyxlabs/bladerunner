@@ -103,4 +103,4 @@ Default driver is `ODBC Driver 17 for SQL Server`. Schema is `scripts/schema.sql
 
 ## Brand and naming
 
-The company is **PnyxLabs**. The previous name "SneakyLabs" appears in the LICENSE and possibly in older comments — leave those alone unless explicitly cleaning up. The research programme retains the name **Bladerunner** (no copyright issue with a research homage). The Replicants product suite has been renamed to Greek mythological figures (Lachesis, Clotho, Atropos, plus Mneme, Psyche, Hermes), but those products live in their own repositories — not here.
+The company is **PnyxLabs**. The previous name "SneakyLabs" may still appear in older comments — leave those alone unless explicitly cleaning up. The research programme retains the name **Bladerunner** (no copyright issue with a research homage). The Replicants product suite has been renamed to Greek mythological figures (Lachesis, Clotho, Atropos, plus Mneme, Psyche, Hermes), but those products live in their own repositories — not here.

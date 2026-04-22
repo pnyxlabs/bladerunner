@@ -2,7 +2,7 @@
 
 **Status:** Living document  
 **Last updated:** January 2026  
-**Author:** SneakyLabs
+**Author:** PnyxLabs
 
 ---
 
